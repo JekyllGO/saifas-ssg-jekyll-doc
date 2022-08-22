@@ -1,9 +1,9 @@
 # erDiagram
-```mermaid
+ 
+ ```mermaid
 erDiagram
-
-app-boilerplate ||--|{ theme : подключить
-theme ||--|| our theme : выбрать
-theme ||--|| new theme :создать
+app-boilerplate ||--|{ theme : "to plug"
+theme ||--|{ our theme : сhoose
+theme ||--|{ new theme : create
 
 ```
